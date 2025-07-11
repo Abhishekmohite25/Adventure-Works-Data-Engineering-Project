@@ -11,6 +11,9 @@ This project implements a comprehensive data engineering pipeline for Adventure 
 The pipeline consists of three main layers:
 
 ### 🥉 Bronze Layer (Raw Data Ingestion)
+
+**Dataset:** [Adventure Works Dataset](https://www.kaggle.com/datasets/ukveteran/adventure-works/data) 
+
 - **Source**: GitHub repository containing Adventure Works datasets
 - **Tool**: Azure Data Factory (ADF)
 - **Process**: Dynamic data ingestion using HTTP connector
